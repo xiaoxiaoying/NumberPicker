@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="SampleTheme" parent="android:Theme.Holo">
+        <item name="numberPickerStyle">@style/NPWidget.Holo.NumberPicker</item>
+         <item name="selectionDivider">@drawable/line_gradient</item>
+    </style>
+
+    <style name="SampleTheme.Light" parent="android:Theme.Holo.Light">
+        <item name="numberPickerStyle">@style/NPWidget.Holo.Light.NumberPicker</item>
+         <item name="selectionDivider">@drawable/line</item>
+    </style>
+</resources>
