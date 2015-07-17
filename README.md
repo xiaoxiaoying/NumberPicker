@@ -17,7 +17,7 @@ shape.xml
 </shape>
 
 效果图
-![image](https://github.com/tuzhong/NumberPicker/blob/master/device-2015-07-17-112227.png)
+![image](https://github.com/xiaoxiaoying/NumberPicker/blob/master/device-2015-07-17-112227.png)
 
 ![原文地址](http://stackoverflow.com/questions/11641997/how-to-change-edittext-cursor-height)
 
