@@ -18,7 +18,7 @@ shape.xml
 [shape.xml](https://github.com/xiaoxiaoying/NumberPicker/blob/master/samples/res/drawable-hdpi/shape.xml)
 
 效果图
-![image](https://github.com/xiaoxiaoying/NumberPicker/blob/master/device-2015-07-17-112227.png)
+![image](https://github.com/xiaoxiaoying/NumberPicker/blob/master/QQ%E5%9B%BE%E7%89%8720150717123716.png)
 
 #从这里找到了灵感
 (http://stackoverflow.com/questions/11641997/how-to-change-edittext-cursor-height)
