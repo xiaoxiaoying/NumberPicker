@@ -4,6 +4,7 @@ import net.simonvt.numberpicker.R;
 import net.simonvt.numberpicker.view.NumberPicker;
 import android.app.Activity;
 import android.os.Bundle;
+import android.widget.Toast;
 
 public class LightThemeActivity extends Activity {
 	String[] strs = { "00:00", "01:00", "02:00", "03:00", "04:00", "05:00",
@@ -39,6 +40,7 @@ public class LightThemeActivity extends Activity {
 		day.setFocusable(true);
 		day.setFocusableInTouchMode(true);
 		day.setLabel("日");
+		
 		
 	}
 	

@@ -137,6 +137,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int list_selector_disabled_holo_dark=0x7f02000f;
         public static final int list_selector_disabled_holo_light=0x7f020010;
         public static final int np_numberpicker_selection_divider=0x7f020011;
+        public static final int shape=0x7f020012;
     }
     public static final class id {
         public static final int btnDark=0x7f050007;
