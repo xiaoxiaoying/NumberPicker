@@ -23,6 +23,8 @@ shape.xml
 #从这里找到了灵感
 (http://stackoverflow.com/questions/11641997/how-to-change-edittext-cursor-height)
 
+[Download apk](https://github.com/xiaoxiaoying/NumberPicker/blob/master/samples/bin/SampleActivity.apk)
+
 
 
 
